@@ -1,4 +1,5 @@
-Voll - Aplicativo de Agendamento de Consultas Médicas
+#Voll - Aplicativo de Agendamento de Consultas Médicas
+
 Bem-vindo ao Voll, um aplicativo para agendamento de consultas médicas construído com React Native e Expo. Este README fornecerá uma visão geral do projeto, instruções de configuração e uso, bem como uma descrição das principais telas da aplicação.
 
 Índice
