@@ -1,75 +1,38 @@
-# Voll - Aplicativo de Agendamento de Consultas Médicas
+![Voll - Mobile](https://repository-images.githubusercontent.com/604322042/0b63dd66-5a29-4646-9c15-a9f490bb3742)
 
-Bem-vindo ao Voll, um aplicativo para agendamento de consultas médicas construído com React Native e Expo. Este README fornecerá uma visão geral do projeto, instruções de configuração e uso, bem como uma descrição das principais telas da aplicação.
+# Voll #
 
-## Índice
+Uma aplicação para consultas médicas usando Native Base e TypeScript no React Native.
 
-- [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
+## 🔨 Funcionalidades da aplicação ##
 
+A aplicação permite que os usuários agendem consultas com médicos, visualizem seus históricos médicos e pesquise por especialistas na região.
 
-## Descrição
+## ✔️ Tecnologias e ferramentas utilizadas ##
 
-O Voll é um aplicativo mobile desenvolvido para facilitar o agendamento de consultas médicas. A aplicação permite que os usuários façam login, cadastrem-se, busquem por médicos e clínicas, e visualizem e editem seu perfil pessoal.
+As tecnologias e ferramentas utilizadas nesta aplicação incluem:
 
-## Funcionalidades
+* Native Base: biblioteca de componentes visuais para React Native
+* TypeScript: linguagem de programação fortemente tipada
+* Expo: plataforma de desenvolvimento de aplicativos para React Native
+* React Native: framework para desenvolvimento de aplicativos para plataformas móveis
 
-- **Login de Usuário**: Acesso ao aplicativo através de credenciais de login.
-- **Cadastro de Usuário**: Registro de novos usuários no sistema.
-- **Busca de Médicos/Clínicas**: Pesquisa de profissionais e estabelecimentos de saúde.
-- **Perfil do Usuário**: Visualização e edição das informações pessoais do usuário.
+## 🎯 Desafio ##
 
-## Pré-requisitos
+Usar a biblioteca Native Base e TypeScript para criar uma aplicação para consultas médicas.
 
-Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina:
+## 📁 Acesso ao projeto ##
 
-- [Node.js](https://nodejs.org/)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/)
-- [Git](https://git-scm.com/)
+O código fonte desta aplicação pode ser acessado em seu repositório no GitHub.
 
-## Instalação
+## 🛠️ Instruções para execução ##
 
-1. Clone este repositório para a sua máquina local:
+1. Clone o repositório para sua máquina local
+2. Instale as dependências necessárias com o comando 
+`npm install`
+3. Execute a aplicação com o comando 
+`npx expo start`
 
-```bash
-git clone https://github.com/seu-usuario/voll.git
-```
+## 📚 Mais informações ##
 
-2. Navegue até o diretório do projeto:
-
-```bash
-cd voll
-```
-
-3. Instale as dependências do projeto:
-
-```bash
-npm install
-```
-
-4. Inicie o servidor do Expo:
-
-```bash
-expo start
-```
-
-## Uso
-
-Para iniciar a aplicação em um dispositivo ou emulador, siga os passos abaixo:
-
-1. Execute o comando para iniciar o servidor do Expo:
-
-```bash
-expo start
-```
-
-2. Utilize o aplicativo Expo Go em seu dispositivo móvel para escanear o código QR exibido no navegador ou inicie um emulador Android/iOS através do Expo CLI.
-
-
----
-
-Agradecemos por usar o Voll! Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue no repositório.
-
-Boas consultas!
+Para obter mais informações sobre este projeto, entre em contato com o desenvolvedor.
